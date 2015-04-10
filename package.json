@@ -2,8 +2,8 @@
   "name": "rickroll_detector",
   "title": "rickroll_detector",
   "id": "jid1-LOVeEJnNux9bBw",
-  "description": "a basic add-on",
-  "author": "",
-  "license": "MPL 2.0",
+  "description": "Basic rickroll-detecting addon",
+  "author": "Matt Nyman",
+  "license": "MIT",
   "version": "0.1"
 }
