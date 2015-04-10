@@ -1,9 +1,9 @@
 {
-  "name": "rickroll_detector",
-  "title": "rickroll_detector",
+  "name": "Rickroll Detector",
+  "title": "Rickroll Detector",
   "id": "jid1-LOVeEJnNux9bBw",
   "description": "Basic rickroll-detecting addon",
   "author": "Matt Nyman",
   "license": "MIT",
-  "version": "0.1"
+  "version": "0.1.1"
 }
